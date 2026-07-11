@@ -1,6 +1,0 @@
-/Users/yashwanth/Downloads/memoryai_part1_skeleton/memoryai-backend/src/main/java/com/memoryai/backend/BackendApplication.java
-/Users/yashwanth/Downloads/memoryai_part1_skeleton/memoryai-backend/src/main/java/com/memoryai/backend/config/AppProperties.java
-/Users/yashwanth/Downloads/memoryai_part1_skeleton/memoryai-backend/src/main/java/com/memoryai/backend/controller/CoreController.java
-/Users/yashwanth/Downloads/memoryai_part1_skeleton/memoryai-backend/src/main/java/com/memoryai/backend/dto/ChatRequest.java
-/Users/yashwanth/Downloads/memoryai_part1_skeleton/memoryai-backend/src/main/java/com/memoryai/backend/dto/ChatResponse.java
-/Users/yashwanth/Downloads/memoryai_part1_skeleton/memoryai-backend/src/main/java/com/memoryai/backend/dto/HealthResponse.java
